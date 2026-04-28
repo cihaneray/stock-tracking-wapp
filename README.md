@@ -19,6 +19,9 @@ Flask-based stock tracking application backed by AWS DynamoDB. It provides inven
 - Pandas + OpenPyXL for Excel I/O
 - HTML templates and static assets
 
+## Project Diagram
+![Project Diagram](diagram.png)
+
 ## Prerequisites
 
 - Python 3.8+
